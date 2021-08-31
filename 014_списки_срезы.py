@@ -1,0 +1,11 @@
+s = []
+s.append(1)
+s.append(2)
+s.append(3)
+s.append(114)
+s.append(15)
+print(s)
+print('Длина списка =',len(s))
+print('Первый индекс =', 0)
+print('Последний индекс =',len(s)-1)
+print(s[-5])
