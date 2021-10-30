@@ -8,3 +8,5 @@ while n != 5:
 print(a)
 a = [element ** 2 for element in a if element > 10]
 print(a)
+a = [int(element / 2) for element in a]
+print(a)

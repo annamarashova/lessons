@@ -1,12 +1,8 @@
 def func():  # функция без параметров
     x = int(input("Введите число: "))
-    x = x ** 10
-    print(x)
+    print('До: '+ str(x))
+    x = x ** 2
+    print('После:', str(x))
 
-
-x = 10
 while True:  # бесконечный цикл
-    print("До")
     func()
-    print(x)
-    print("После")
