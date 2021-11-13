@@ -25,14 +25,12 @@ NB: We will close this pending trade if not triggered within 10 hours.
 In order to place this trade with Capital.com you can open an account here: https://go.currency.com/visit/?bta=35304&nci=5721&utm_campaign=cryptosignals&afp=defisignals
 """
 
-DESTINATION_TEXT_1 = """
-🔥 SNXUSD - BUY STOP $11.25
+DESTINATION_TEXT_1 = """🔥 SNXUSD - BUY STOP $11.25
 
 🟢 TP $12.04
 ❌ SL $10.85
 
-👉 close if not triggered within 10 hours
-"""
+👉 close if not triggered within 10 hours"""
 
 # ================
 
@@ -52,14 +50,12 @@ RRR: 1:2
 NB: I will close this pending trade if not triggered within 8 hours.
 """
 
-DESTINATION_TEXT_2 = """
-🔥 BTCUSD - BUY LIMIT $65000
+DESTINATION_TEXT_2 = """🔥 BTCUSD - BUY LIMIT $65000
 
 🟢 TP $68000
 ❌ SL $63500
 
-👉 close if not triggered within 8 hours
-"""
+👉 close if not triggered within 8 hours"""
 
 # ================
 
@@ -81,12 +77,10 @@ RRR: 1:2
 In order to place this trade with Capital.com you can open an account here: https://go.currency.com/visit/? bta=35304&nci=5721&utm_campaign=cryptosignals&afp=defisignals
 """
 
-DESTINATION_TEXT_3 = """
-🔥 ZRXUSD - BUY $1.39
+DESTINATION_TEXT_3 = """🔥 ZRXUSD - BUY $1.39
 
 🟢 TP $1.63
-❌ SL $1.27
-"""
+❌ SL $1.27"""
 
 # ================
 
@@ -106,11 +100,9 @@ RRR: 1:2
 NB: We will close this pending trade if not triggered within 8 hours.
 """
 
-DESTINATION_TEXT_4 = """
-🔥 SOLUSD - BUY $230
+DESTINATION_TEXT_4 = """🔥 SOLUSD - BUY $230
 
 🟢 TP $260
 ❌ SL $215
 
-👉 close if not triggered within 8 hours
-"""
+👉 close if not triggered within 8 hours"""
